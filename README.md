@@ -1,5 +1,5 @@
 # Google-Play-Store-Analysis-Case-Study
- Identified the key factors for app success. Analyzed size, price, category, and more. Provide actionable insights with data/visualizations. Boost visibility of promising apps.
+ Identified the key factors for app success. Analyzed size, price, category, and more. Provided actionable insights with data/visualizations. Boosted visibility of promising apps.
 # Google Play Store Analysis Case Study
 
 ## Tools and Technology used:
